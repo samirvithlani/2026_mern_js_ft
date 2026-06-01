@@ -1,0 +1,12 @@
+variable decla
+json
+functions
+    :
+events
+    :intro
+string:
+    own
+array :
+    filter, find,map,reduce,...
+promise
+     :
