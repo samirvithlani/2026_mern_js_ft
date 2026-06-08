@@ -10,3 +10,28 @@ array :
     filter, find,map,reduce,...
 promise
      :
+
+
+keyborad event
+mouse event:
+
+something happend: catch --> op
+
+html page -->tag 
+--->3 indetifiers
+
+1)id -->page unique
+2)name --> duplicate
+3)class -->css class 
+tag itself is idenf
+
+
+
+BOM: browser object model
+DOM : document object model
+
+
+<h1>inner text</h1>
+<div><h1></h1></div> --->inner html
+<a href >-->href attribute
+
