@@ -35,3 +35,6 @@ DOM : document object model
 <div><h1></h1></div> --->inner html
 <a href >-->href attribute
 
+html -->page event ---> 
+function param -->Event -->object
+
