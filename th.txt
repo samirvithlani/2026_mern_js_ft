@@ -38,3 +38,27 @@ DOM : document object model
 html -->page event ---> 
 function param -->Event -->object
 
+
+
+js : non sync:
+line --> 1
+ --->line 10 sec -->data
+ data -->
+ line--.3 wait..
+sync process
+
+Promise class:
+3 stages 
+
+Promise pending
+Resolve , reject
+
+-->process --> data time ?? 
+
+
+call back hell
+
+
+
+
+
